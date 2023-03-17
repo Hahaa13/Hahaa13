@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PEO or LZ5509</h1>
 <h3 align="center">I come from 🇻🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hahaa13&label=Profile%20views&color=52d6fc&style=plastic" alt="hahaa13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hahaa13&label=Profile%20views&color=00ffff&style=flat" alt="hahaa13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hahaa13" alt="hahaa13" /></a> </p>
 
@@ -14,8 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hahaa13&show_icons=true&theme=dark&locale=vi&layout=compact" alt="hahaa13" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hahaa13&show_icons=true&theme=highcontrast&bg_color=000000&hide_border=true&locale=vi&layout=compact" alt="hahaa13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hahaa13&show_icons=true&theme=dark&locale=vi" alt="hahaa13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hahaa13&show_icons=true&theme=highcontrast&bg_color=000000&hide_border=true&locale=vi" alt="hahaa13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hahaa13&theme=dark" alt="hahaa13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hahaa13&theme=highcontrast" alt="hahaa13" /></p>
